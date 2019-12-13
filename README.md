@@ -1,7 +1,7 @@
 # adipls
 
 This file contains the source codes (without object files) in mesa-r10398/adipls/adipack.c/adipls,
-edited for controlling 2nd order perturbative method computation from MESA. 
+edited for controlling rotation computation with 2nd order perturbative method through MESA. 
 
 The codes are coupled to the MESA astero src files.
 
