@@ -9,6 +9,8 @@ Settings are controlled with the input file inlist_pulse_controls in astero work
 (e.g. work_bench_adipls), not the original adipls.c.in or adipls.c.pruned.in. 
 
 
+For instructions on how to use, please refer to the astero repo README.md
+
 
 
 
